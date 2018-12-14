@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarReantalWCFService", "CarReantalWFCService\CarReantalWCFService.csproj", "{8FA57F3F-AFB0-4CF6-8B40-0BA38ADCCBEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCF", "WCF", "{38FF391B-B25E-4565-AF1F-162A08C4BF06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{2CBE352F-8B2C-4F41-AE70-02EC7772E014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.Host.App", "CarRental.Host.App\CarRental.Host.App.csproj", "{34EEF34D-51B6-43BC-88A5-4EFBB0CE60FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{688364B8-5725-4BFB-9B64-13772FDA1020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseClasses", "..\..\..\Documents\WFCProjeckt\carrentalbackend\BaseClasses\BaseClasses.csproj", "{0E3B1EDD-743A-4114-A571-6262C614B77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Context", "..\..\..\Documents\WFCProjeckt\carrentalbackend\ContextService\Context.csproj", "{E48EAAE0-CBA7-4ECA-877D-DB0B69DC1D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\..\..\Documents\WFCProjeckt\carrentalbackend\CoreDomain\Domain.csproj", "{B5F5F6C9-D390-4F75-86D5-C66DE709D903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingEntity", "..\..\..\Documents\WFCProjeckt\carrentalbackend\MappingEntity\MappingEntity.csproj", "{DCF97BE7-CA95-4BBD-85C4-A870881E233A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\..\..\Documents\WFCProjeckt\carrentalbackend\Repository\Repository.csproj", "{F3920EF5-BF4F-408B-91F9-42D13C962F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "..\..\..\Documents\WFCProjeckt\carrentalbackend\Services\Services.csproj", "{FBF36C6D-800D-4184-BAF1-973CD4C425AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitsOfWork", "..\..\..\Documents\WFCProjeckt\carrentalbackend\UnitOfWork\UnitsOfWork.csproj", "{49C3DA8B-C85C-4423-81CD-058DB9A0720F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{0DF0AFE9-2371-49A6-BE44-3D8708663DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Client", "App.Client\App.Client.csproj", "{CB90317B-F84F-4EB6-BA84-656D74C8B33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA57F3F-AFB0-4CF6-8B40-0BA38ADCCBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA57F3F-AFB0-4CF6-8B40-0BA38ADCCBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA57F3F-AFB0-4CF6-8B40-0BA38ADCCBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA57F3F-AFB0-4CF6-8B40-0BA38ADCCBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EEF34D-51B6-43BC-88A5-4EFBB0CE60FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EEF34D-51B6-43BC-88A5-4EFBB0CE60FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EEF34D-51B6-43BC-88A5-4EFBB0CE60FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EEF34D-51B6-43BC-88A5-4EFBB0CE60FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3B1EDD-743A-4114-A571-6262C614B77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3B1EDD-743A-4114-A571-6262C614B77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3B1EDD-743A-4114-A571-6262C614B77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3B1EDD-743A-4114-A571-6262C614B77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48EAAE0-CBA7-4ECA-877D-DB0B69DC1D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48EAAE0-CBA7-4ECA-877D-DB0B69DC1D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48EAAE0-CBA7-4ECA-877D-DB0B69DC1D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48EAAE0-CBA7-4ECA-877D-DB0B69DC1D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F5F6C9-D390-4F75-86D5-C66DE709D903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F5F6C9-D390-4F75-86D5-C66DE709D903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F5F6C9-D390-4F75-86D5-C66DE709D903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F5F6C9-D390-4F75-86D5-C66DE709D903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF97BE7-CA95-4BBD-85C4-A870881E233A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF97BE7-CA95-4BBD-85C4-A870881E233A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF97BE7-CA95-4BBD-85C4-A870881E233A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF97BE7-CA95-4BBD-85C4-A870881E233A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3920EF5-BF4F-408B-91F9-42D13C962F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3920EF5-BF4F-408B-91F9-42D13C962F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3920EF5-BF4F-408B-91F9-42D13C962F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3920EF5-BF4F-408B-91F9-42D13C962F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF36C6D-800D-4184-BAF1-973CD4C425AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF36C6D-800D-4184-BAF1-973CD4C425AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF36C6D-800D-4184-BAF1-973CD4C425AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF36C6D-800D-4184-BAF1-973CD4C425AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C3DA8B-C85C-4423-81CD-058DB9A0720F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C3DA8B-C85C-4423-81CD-058DB9A0720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C3DA8B-C85C-4423-81CD-058DB9A0720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C3DA8B-C85C-4423-81CD-058DB9A0720F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB90317B-F84F-4EB6-BA84-656D74C8B33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB90317B-F84F-4EB6-BA84-656D74C8B33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB90317B-F84F-4EB6-BA84-656D74C8B33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB90317B-F84F-4EB6-BA84-656D74C8B33F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8FA57F3F-AFB0-4CF6-8B40-0BA38ADCCBEE} = {38FF391B-B25E-4565-AF1F-162A08C4BF06}
+		{34EEF34D-51B6-43BC-88A5-4EFBB0CE60FE} = {2CBE352F-8B2C-4F41-AE70-02EC7772E014}
+		{0E3B1EDD-743A-4114-A571-6262C614B77B} = {688364B8-5725-4BFB-9B64-13772FDA1020}
+		{E48EAAE0-CBA7-4ECA-877D-DB0B69DC1D34} = {688364B8-5725-4BFB-9B64-13772FDA1020}
+		{B5F5F6C9-D390-4F75-86D5-C66DE709D903} = {688364B8-5725-4BFB-9B64-13772FDA1020}
+		{DCF97BE7-CA95-4BBD-85C4-A870881E233A} = {688364B8-5725-4BFB-9B64-13772FDA1020}
+		{F3920EF5-BF4F-408B-91F9-42D13C962F59} = {688364B8-5725-4BFB-9B64-13772FDA1020}
+		{FBF36C6D-800D-4184-BAF1-973CD4C425AA} = {688364B8-5725-4BFB-9B64-13772FDA1020}
+		{49C3DA8B-C85C-4423-81CD-058DB9A0720F} = {688364B8-5725-4BFB-9B64-13772FDA1020}
+		{CB90317B-F84F-4EB6-BA84-656D74C8B33F} = {0DF0AFE9-2371-49A6-BE44-3D8708663DEC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855CCD2E-3A77-4487-86E8-7E800EA922FF}
+	EndGlobalSection
+EndGlobal

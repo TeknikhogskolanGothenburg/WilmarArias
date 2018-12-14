@@ -82,36 +82,32 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Documents\WFCProjeckt\carrentalbackend\BaseClasses\BaseClasses.csproj">
-      <Project>{0e3b1edd-743a-4114-a571-6262c614b77b}</Project>
-      <Name>BaseClasses</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\Documents\WFCProjeckt\carrentalbackend\ContextService\Context.csproj">
-      <Project>{E48EAAE0-CBA7-4ECA-877D-DB0B69DC1D34}</Project>
-      <Name>Context</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\Documents\WFCProjeckt\carrentalbackend\CoreDomain\Domain.csproj">
-      <Project>{B5F5F6C9-D390-4F75-86D5-C66DE709D903}</Project>
-      <Name>Domain</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\Documents\WFCProjeckt\carrentalbackend\Repository\Repository.csproj">
-      <Project>{F3920EF5-BF4F-408B-91F9-42D13C962F59}</Project>
-      <Name>Repository</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\Documents\WFCProjeckt\carrentalbackend\Services\Services.csproj">
-      <Project>{FBF36C6D-800D-4184-BAF1-973CD4C425AA}</Project>
-      <Name>Services</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\Documents\WFCProjeckt\carrentalbackend\UnitOfWork\UnitsOfWork.csproj">
-      <Project>{49C3DA8B-C85C-4423-81CD-058DB9A0720F}</Project>
-      <Name>UnitsOfWork</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="ExeptionResource.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>ExeptionResource.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ContextService\Context.csproj">
+      <Project>{E48EAAE0-CBA7-4ECA-877D-DB0B69DC1D34}</Project>
+      <Name>Context</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CoreDomain\Domain.csproj">
+      <Project>{B5F5F6C9-D390-4F75-86D5-C66DE709D903}</Project>
+      <Name>Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Project>{F3920EF5-BF4F-408B-91F9-42D13C962F59}</Project>
+      <Name>Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services\Services.csproj">
+      <Project>{FBF36C6D-800D-4184-BAF1-973CD4C425AA}</Project>
+      <Name>Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnitOfWork\UnitsOfWork.csproj">
+      <Project>{49C3DA8B-C85C-4423-81CD-058DB9A0720F}</Project>
+      <Name>UnitsOfWork</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

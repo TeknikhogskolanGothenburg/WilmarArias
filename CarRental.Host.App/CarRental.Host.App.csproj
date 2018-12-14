@@ -65,17 +65,17 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Documents\WFCProjeckt\carrentalbackend\BaseClasses\BaseClasses.csproj">
-      <Project>{0e3b1edd-743a-4114-a571-6262c614b77b}</Project>
+    <ProjectReference Include="..\BaseClasses\BaseClasses.csproj">
+      <Project>{0E3B1EDD-743A-4114-A571-6262C614B77B}</Project>
       <Name>BaseClasses</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\Documents\WFCProjeckt\carrentalbackend\CoreDomain\Domain.csproj">
-      <Project>{B5F5F6C9-D390-4F75-86D5-C66DE709D903}</Project>
-      <Name>Domain</Name>
     </ProjectReference>
     <ProjectReference Include="..\CarReantalWFCService\CarReantalWCFService.csproj">
       <Project>{8fa57f3f-afb0-4cf6-8b40-0ba38adccbee}</Project>
       <Name>CarReantalWCFService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CoreDomain\Domain.csproj">
+      <Project>{B5F5F6C9-D390-4F75-86D5-C66DE709D903}</Project>
+      <Name>Domain</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

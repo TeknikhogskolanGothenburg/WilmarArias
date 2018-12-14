@@ -26,3 +26,8 @@ C:\Users\Wilirambo\Documents\WFCProjeckt\carrentalbackend\BaseClasses\obj\Debug\
 C:\Users\Wilirambo\Documents\WFCProjeckt\carrentalbackend\BaseClasses\obj\Debug\BaseClasses.dll
 C:\Users\Wilirambo\Documents\WFCProjeckt\carrentalbackend\BaseClasses\obj\Debug\BaseClasses.pdb
 C:\Users\Wilirambo\Documents\WFCProjeckt\carrentalbackend\BaseClasses\obj\Debug\BaseClasses.csprojAssemblyReference.cache
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\BaseClasses\bin\Debug\BaseClasses.dll
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\BaseClasses\bin\Debug\BaseClasses.pdb
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\BaseClasses\obj\Debug\BaseClasses.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\BaseClasses\obj\Debug\BaseClasses.dll
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\BaseClasses\obj\Debug\BaseClasses.pdb

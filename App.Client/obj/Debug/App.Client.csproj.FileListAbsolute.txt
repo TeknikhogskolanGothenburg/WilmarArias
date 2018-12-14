@@ -8,3 +8,13 @@ C:\Users\Wilirambo\source\repos\CarRental\App.Client\obj\Debug\App.Client.csproj
 C:\Users\Wilirambo\source\repos\CarRental\App.Client\obj\Debug\App.Client.csproj.CoreCompileInputs.cache
 C:\Users\Wilirambo\source\repos\CarRental\App.Client\obj\Debug\App.Client.exe
 C:\Users\Wilirambo\source\repos\CarRental\App.Client\obj\Debug\App.Client.pdb
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\bin\Debug\App.Client.exe.config
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\bin\Debug\App.Client.exe
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\bin\Debug\App.Client.pdb
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\obj\Debug\App.Client.csprojAssemblyReference.cache
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\obj\Debug\App.Client.Form1.resources
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\obj\Debug\App.Client.Properties.Resources.resources
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\obj\Debug\App.Client.csproj.GenerateResource.cache
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\obj\Debug\App.Client.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\obj\Debug\App.Client.exe
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\App.Client\obj\Debug\App.Client.pdb

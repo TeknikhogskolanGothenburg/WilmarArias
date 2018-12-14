@@ -43,3 +43,12 @@ C:\Users\Wilirambo\Documents\WFCProjeckt\carrentalbackend\CoreDomain\obj\Debug\D
 C:\Users\Wilirambo\Documents\WFCProjeckt\carrentalbackend\CoreDomain\obj\Debug\Domain.csproj.CopyComplete
 C:\Users\Wilirambo\Documents\WFCProjeckt\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.dll
 C:\Users\Wilirambo\Documents\WFCProjeckt\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.pdb
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\bin\Debug\CoreDomain.dll
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\bin\Debug\CoreDomain.pdb
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\bin\Debug\BaseClasses.dll
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\bin\Debug\BaseClasses.pdb
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\obj\Debug\CoreDomain.dll
+C:\Users\Wilirambo\Documents\Pdf\WilmarArias-master\WilmarArias-master\CoreDomain\obj\Debug\CoreDomain.pdb

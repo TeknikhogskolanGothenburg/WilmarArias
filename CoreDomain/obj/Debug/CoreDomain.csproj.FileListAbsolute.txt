@@ -1,0 +1,30 @@
+C:\Users\wilirambo\source\repos\UnitOfWork\CoreDomain\bin\Debug\CoreDomain.dll
+C:\Users\wilirambo\source\repos\UnitOfWork\CoreDomain\bin\Debug\CoreDomain.pdb
+C:\Users\wilirambo\source\repos\UnitOfWork\CoreDomain\obj\Debug\CoreDomain.csprojAssemblyReference.cache
+C:\Users\wilirambo\source\repos\UnitOfWork\CoreDomain\obj\Debug\CoreDomain.csproj.CoreCompileInputs.cache
+C:\Users\wilirambo\source\repos\UnitOfWork\CoreDomain\obj\Debug\CoreDomain.dll
+C:\Users\wilirambo\source\repos\UnitOfWork\CoreDomain\obj\Debug\CoreDomain.pdb
+C:\Users\wilirambo\Documents\carrentalbackend\UnitOfWork\CoreDomain\bin\Debug\CoreDomain.dll
+C:\Users\wilirambo\Documents\carrentalbackend\UnitOfWork\CoreDomain\bin\Debug\CoreDomain.pdb
+C:\Users\wilirambo\Documents\carrentalbackend\UnitOfWork\CoreDomain\obj\Debug\CoreDomain.csprojAssemblyReference.cache
+C:\Users\wilirambo\Documents\carrentalbackend\UnitOfWork\CoreDomain\obj\Debug\CoreDomain.csproj.CoreCompileInputs.cache
+C:\Users\wilirambo\Documents\carrentalbackend\UnitOfWork\CoreDomain\obj\Debug\CoreDomain.dll
+C:\Users\wilirambo\Documents\carrentalbackend\UnitOfWork\CoreDomain\obj\Debug\CoreDomain.pdb
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\bin\Debug\CoreDomain.dll
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\bin\Debug\CoreDomain.pdb
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.csprojAssemblyReference.cache
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.csproj.CoreCompileInputs.cache
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.dll
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.pdb
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\bin\Debug\BaseClasses.dll
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\bin\Debug\BaseClasses.pdb
+C:\Users\wilirambo\Documents\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.csproj.CopyComplete
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\bin\Debug\CoreDomain.dll
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\bin\Debug\CoreDomain.pdb
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\bin\Debug\BaseClasses.dll
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\bin\Debug\BaseClasses.pdb
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.csprojAssemblyReference.cache
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.csproj.CoreCompileInputs.cache
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.csproj.CopyComplete
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.dll
+C:\Teknikhögskolan\Courses\.NET Framework with Joakim\projects\carrentalbackend\CoreDomain\obj\Debug\CoreDomain.pdb
